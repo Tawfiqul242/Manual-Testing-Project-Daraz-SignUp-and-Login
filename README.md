@@ -6,12 +6,12 @@
 
 ##  Table Of Content
 - [Introduction](#introduction)
-- [Test Plan](##testplan)
-- [Mind Map]()
-- [Test Cases]()
-- [Test Case Report]()
-- [Bug Report]()
-- [Test Metrics]()
+- [Test Plan](#test-plan)
+- [Mind Map](#mind-map)
+- [Test Cases](#test-cases)
+- [Test Case Report](#test-case-report)
+- [Bug Report](#bug-report)
+- [Test Metrics](#test-metrics)
 ## Introduction
 
 This project focuses on the manual testing of the Sign-Up and Log-In functionalities of Daraz, a leading e-commerce platform. The primary goal is to practice manual testing while creating comprehensive documentation to assist beginners in understanding the testing process. During the practice, several issues were identified that could potentially benefit Daraz's SQA team in improving the platform's quality.. As part of this project, key testing artifacts were developed like Test Plan, Mind Map, Test Cases, Test Case Report, Bug Report and Test Metrics.
