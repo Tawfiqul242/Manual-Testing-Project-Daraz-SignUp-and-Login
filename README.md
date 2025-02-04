@@ -14,7 +14,7 @@
 - [Test Metrics](#test-metrics)
 ## Introduction
 
-This project focuses on the manual testing of the Sign-Up and Log-In functionalities of Daraz, a leading e-commerce platform. The primary goal is to practice manual testing while creating comprehensive documentation to assist beginners in understanding the testing process. During the practice, several issues were identified that could potentially benefit Daraz's SQA team in improving the platform's quality.. As part of this project, key testing artifacts were developed like Test Plan, Mind Map, Test Cases, Test Case Report, Bug Report and Test Metrics.
+This project focuses on the manual testing of the Sign-Up and Log-In functionalities of Daraz, a leading e-commerce platform. The primary goal is to practice manual testing while creating comprehensive documentation to assist beginners in understanding the testing process. During the practice, several issues were identified that could potentially benefit Daraz's SQA team in improving the platform's quality. As part of this project, key testing artifacts were developed like Test Plan, Mind Map, Test Cases, Test Case Report, Bug Report and Test Metrics.
 ## Test Plan
 A test plan in manual testing is a document that outlines the objectives, scope, approach, resources, schedule, and deliverables of the testing process. It acts as a roadmap to guide the testing team, ensuring clarity and consistency throughout the testing lifecycle. Here is the Test Plan for this project-
 ![](https://github.com/Tawfiqul242/Manual-testing-project/blob/master/Images/Test%20Plan.png)
